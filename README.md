@@ -10,6 +10,7 @@ Responsive design for desktop and mobile devices,
 Structured HTML layout,
  Custom CSS styling,
  Smooth and user-friendly navigation,
+ 
  Technologies Used
 
 HTML5 – Website structure,
