@@ -4,17 +4,17 @@ A responsive and interactive website developed using HTML, CSS, and JavaScript. 
 
 Features
 
-Responsive design for desktop and mobile devices
-Interactive elements using JavaScript
-Clean and modern user interface
-Structured HTML layout
-Custom CSS styling
-Smooth and user-friendly navigation
-Technologies Used
+Responsive design for desktop and mobile devices,
+ Interactive elements using JavaScript,
+ Clean and modern user interface
+Structured HTML layout,
+ Custom CSS styling,
+ Smooth and user-friendly navigation,
+ Technologies Used
 
-HTML5 – Website structure
-CSS3 – Styling and responsive design
-JavaScript – Interactivity and dynamic functionality
+HTML5 – Website structure,
+ CSS3 – Styling and responsive design,
+ JavaScript – Interactivity and dynamic functionality
 
 Purpose
 
